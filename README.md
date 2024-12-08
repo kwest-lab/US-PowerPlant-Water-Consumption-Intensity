@@ -28,7 +28,9 @@ While this code is optimized for 2021 data, it can be adapted to analyze other y
 
 ### Input Data (Located in `input_data/`):  
 1. **`data_CBG.csv`**  
-   - Contains water consumption data for U.S. power plants (2021).  
+   - Contains water consumption data for U.S. power plants (2021).
+   - **Note:** This file is now available for download in the [GitHub Release section](https://github.com/your-repository-name/releases). Please download `data_CBG.csv` and save it in the `input_data/` folder before running the code.
+   - Source: [EIA Electricity Data - Water](https://www.eia.gov/electricity/data/water/)  
    - Source: [EIA Electricity Data - Water](https://www.eia.gov/electricity/data/water/)  
 
 2. **`EIA923_Schedules_2_3_4_5_M_12_2021_Final_Revision.csv`**  
