@@ -64,5 +64,5 @@ While this code is optimized for 2021 data, it can be adapted to analyze other y
 
 ## Citation  
 If you use this code or the results generated from it, please cite the following sources for input data:  
-- U.S. Energy Information Administration (EIA): [Electricity Data](https://www.eia.gov/electricity/data/)  
+- U.S. Energy Information Administration (EIA): [Electricity Data](https://www.eia.gov/)  
 - Homeland Infrastructure Foundation-Level Data (HIFLD): [Geospatial Data](https://hifld-geoplatform.hub.arcgis.com/)  
