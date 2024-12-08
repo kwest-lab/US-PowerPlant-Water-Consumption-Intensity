@@ -1,0 +1,43 @@
+Fuel Type,Energy Source Code,Energy Source Description
+Coal,ANT,Anthracite Coal 
+Coal,BIT,Bituminous Coal
+Coal,LIG,Lignite Coal
+Coal,SGC,Coal-Derived Synthesis Gas
+Coal,SUB,Subbituminous Coal
+Coal,WC,"Waste/Other Coal (incl. anthracite culm, bituminous gob, fine coal, lignite waste, waste coal)"
+Coal,RC,Refined Coal
+Petroleum Products,DFO,"Distillate Fuel Oil (including diesel, No. 1, No. 2, and No. 4 fuel oils)"
+Petroleum Products,JF,Jet Fuel
+Petroleum Products,KER,Kerosene
+Petroleum Products,PC,Petroleum Coke
+Petroleum Products,PG,Gaseous Propane
+Petroleum Products,RFO,"Residual Fuel Oil (incl. Nos. 5 & 6 fuel oils, and bunker C fuel oil)"
+Petroleum Products,SGP,Synthesis Gas from Petroleum Coke
+Petroleum Products,WO,"Waste/Other Oil (including crude oil, liquid butane, liquid propane, naphtha, oil waste, re-refined motor oil, sludge oil, tar oil, or other petroleum-based liquid wastes)"
+Natural Gas and Other Gases,BFG,Blast Furnace Gas
+Natural Gas and Other Gases,NG,Natural Gas
+Natural Gas and Other Gases,H2,Hydrogen
+Natural Gas and Other Gases,OG,Other Gas (specify in SCHEDULE 7)
+Solid Renewable  Fuels,AB,Agricultural By-Products
+Solid Renewable  Fuels,MSW,Municipal Solid Waste
+Solid Renewable  Fuels,MSB,Municipal Sold Biomass
+Solid Renewable  Fuels,MSN,Municipal Solid Non-biomass
+Solid Renewable  Fuels,OBS,Other Biomass Solids (specify in SCHEDULE 7)
+Solid Renewable  Fuels,WDS,"Wood/Wood Waste Solids (incl. paper pellets, railroad ties, utility poles, wood chips, bark, and wood waste solids)"
+Liquid Renewable (Biomass) Fuels,OBL,Other Biomass Liquids (specify in SCHEDULE 7)
+Liquid Renewable (Biomass) Fuels,SLW,Sludge Waste
+Liquid Renewable (Biomass) Fuels,BLQ,Black Liquor
+Liquid Renewable (Biomass) Fuels,WDL,"Wood Waste Liquids excluding Black Liquor (including red liquor, sludge wood, spent sulfite liquor, and other wood-based liquids)"
+Gaseous Renewable (Biomass)  Fuels,LFG,Landfill Gas
+Gaseous Renewable (Biomass)  Fuels,OBG,"Other Biomass Gas (including digester gas, methane, and other biomass gases; specify in SCHEDULE 7)"
+Solar,SUN,Solar
+Wind,WND,Wind
+Geothermal,GEO,Geothermal
+Hydro,WAT,"Water at a Conventional Hydroelectric Turbine, and water used in Wave Buoy Hydrokinetic Technology, Current Hydrokinetic Technology, and Tidal Hydrokinetic Technology"
+Nuclear,NUC,"Nuclear (including Uranium, Plutonium, and Thorium)"
+All Other Energy Sources,WAT,Pumping Energy for Reversible (Pumped Storage) Hydroelectric Turbine
+All Other Energy Sources,PUR,Purchased Steam
+All Other Energy Sources,WH,"Waste heat not directly attributed to a fuel source (WH should only be reported when the fuel source is undetermined, and for combined cycle steam turbines that do not have supplemental firing.)"
+All Other Energy Sources,TDF,Tire-derived Fuels
+All Other Energy Sources,MWH,Electricity used for energy storage
+All Other Energy Sources,OTH,Specify in SCHEDULE 7
