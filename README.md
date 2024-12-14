@@ -38,7 +38,7 @@ While this code is optimized for 2021 data, it can be adapted to analyze other y
 
 3. **`fuel_codes_new.csv`**  
    - Categorizes fuel types into broader categories (e.g., natural gas, petroleum).  
-   - Reference: [EIA Form 860 Data]([https://www.eia.gov/electricity/monthly/pdf/AppendixC.pdf](https://www.eia.gov/electricity/data/eia860/))  
+   - Reference: [EIA Form 860 Data]([https://www.eia.gov/electricity/monthly/pdf/AppendixC.pdf](https://www.eia.gov/electricity/data/eia860/)  
 
 4. **`RTO_PP_new.csv`**  
    - Assigns power plants to RTO regions based on GIS data processing.  
