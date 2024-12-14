@@ -30,7 +30,7 @@ While this code is optimized for 2021 data, it can be adapted to analyze other y
 1. **`data_CBG.csv`**  
    - Contains water consumption data for U.S. power plants (2021).
    - **Note:** This file is now available for download in the [GitHub Release section](https://github.com/kwest-lab/US-PowerPlant-Water-Consumption-Intensity/releases/tag/inputdatav1.0). Please download `data_CBG.csv` and save it in the `input_data/` folder before running the code.
-   - Source: [EIA Electricity Data - Water](https://www.eia.gov/electricity/data/water/)  
+   - Source: [EIA Thermoelectric Cooling Water Data](https://www.eia.gov/electricity/data/water/)  
 
 2. **`EIA923_Schedules_2_3_4_5_M_12_2021_Final_Revision.csv`**  
    - Contains fuel consumption and electricity generation data for U.S. power plants (2021).  
@@ -38,7 +38,7 @@ While this code is optimized for 2021 data, it can be adapted to analyze other y
 
 3. **`fuel_codes_new.csv`**  
    - Categorizes fuel types into broader categories (e.g., natural gas, petroleum).  
-   - Reference: [EIA Appendix C - Energy Source Grouping](https://www.eia.gov/electricity/monthly/pdf/AppendixC.pdf)  
+   - Reference: [EIA Form 860 Data]([https://www.eia.gov/electricity/monthly/pdf/AppendixC.pdf](https://www.eia.gov/electricity/data/eia860/))  
 
 4. **`RTO_PP_new.csv`**  
    - Assigns power plants to RTO regions based on GIS data processing.  
